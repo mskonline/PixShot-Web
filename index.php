@@ -148,7 +148,7 @@ switch (ENVIRONMENT) {
  * as this file.
  */
 if (ENVIRONMENT == 'production')
-    $system_path = '../../webapps/pixshot/system';
+    $system_path = '../../webapps/PixShot-Web/system';
 else
     $system_path = './system';
 
@@ -166,7 +166,7 @@ else
  * NO TRAILING SLASH!
  */
 if (ENVIRONMENT == 'production')
-    $application_folder = '../../webapps/pixshot/application';
+    $application_folder = '../../webapps/PixShot-Web/application';
 else
     $application_folder = './application';
 
