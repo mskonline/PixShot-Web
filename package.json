@@ -1,0 +1,22 @@
+{
+  "name": "pixshot-web",
+  "version": "1.0.0",
+  "description": "Pixshot Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskonline/PixShot-Web.git"
+  },
+  "author": "Sai Kumar Manakan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mskonline/PixShot-Web/issues"
+  },
+  "homepage": "https://github.com/mskonline/PixShot-Web#readme",
+  "dependencies": {
+    "uglify-js": "^3.10.1"
+  }
+}
